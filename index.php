@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>UltraCore Power Low Booster</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="description" content="UltraCore Power Low Booster">
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700,700i&display=swap" rel="stylesheet">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+		<link href="css/main.css" rel="stylesheet">
+		<link rel="icon" type="image/png" href="img/favicon.png">
+	</head>
+
+	<body>
+		<header class="center">
+			<div class="container">
+				<img class="logo" src="img/logo.png" alt="logo">
+				<img class="header" src="img/header.png" alt="header">
+				<nav class="navbar navbar-expand-lg navbar-dark">
+					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+		    			<span class="navbar-toggler-icon"></span>
+		  			</button>
+		  			<div class="collapse navbar-collapse" id="navbarNavDropdown">
+		  				<ul class="navbar-nav">
+		  					<li class="nav-item">
+		        				<a class="nav-link" href="#boost">BOOST</a>
+		      				</li>
+		      				<li class="nav-item">
+		        				<a class="nav-link" href="#ingredients">INGREDIENTS</a>
+		      				</li>
+		      				<li class="nav-item">
+		        				<a class="nav-link" href="#faq">FAQ</a>
+		      				</li>
+		      				<li class="nav-item">
+		        				<a class="nav-link" href="#author">AUTHOR</a>
+		      				</li>
+		  				</ul>
+		  			</div>
+				</nav>
+			</div>
+		</header>
+
+		<section class="container main-content shadow">
+			<div class="author-header">
+				<div class="content">
+					<span>Written by: </span><span class="bold">Chris</span>
+				</div>
+			</div>
+			<h1>UltraCore Power Review:<br/> How Testosterone Supplements Should Work</h1>
+			<div class="triangle"></div>
+			<p>At what point in your life did you realize that you’re no longer the man you used to be? </p>
+			<p>Is it after you stopped going to the gym? </p>
+			<p>Is it when you started gaining weight? </p>
+			<p>Is it when you stopped being interested in sex? </p>
+			<p>The stories are different for every man, but what’s consistent in all these stories is that men break down eventually. All these years of commuting, taking care of the kids, and going to work will have its toll. We all feel down from time to time, and as we get older, our bodies get less and less capable of doing the things that we love. </p>
+			<p>Testosterone levels decline with age, and with it comes our source of all our manliness. Testosterone is the hormone that drives muscle growth, strength, mood, and sex drive. Every year, your testosterone levels drop, and while you may not feel or observe the symptoms of low testosterone yet, you will eventually experience the loss of muscle mass, weight gain, and of course – poor sex drive.</p>
+			<p>If you’d trace the roots of traditional medicine, you’d realize that impotence and poor libido were two of the symptoms our ancestors tried to cure. That’s why Chinese medicine and Ayurveda are full of herbs that are believed to improve a man’s virility and vigor. Now, with modern technology and science, companies have created some of the best supplements that are guaranteed to increase your testosterone and allow you to experience the life you’ve always wanted. </p>
+			<h1 id="boost">UltraCore Power Low T Booster</h1>
+			<div class="triangle"></div>
+			<p>UltraCore Power is undoubtedly the world’s most talked-about testosterone-boosting brand today. With plenty of individuals, including celebrities and former athletes talking about UltraCore Power, it’s hard to ignore how successful UltraCore Power really is. </p>
+			<p>UltraCore Power’s breakthrough formulation has a very unique take on increasing testosterone levels, which involves 4 different stages of increasing testosterone. This is a major upgrade from the usual single-phase formulas that we see in most testosterone boosters and even with sexual enhancement supplements.</p>
+			<p>One major advantage of UltraCore Power compared to other supplements is its 3-supplement stack approach. UltraCore Power combines the power of three supplements, all formulated to work together, to yield superior results. The supplement stack racks up a massive 5525mg daily dose of testosterone-boosting ingredients, consistently flowing through your system, to increase your energy, strength, lean muscle mass, and confidence. </p>
+			<p>UltraCore Power is a membership-based product. This means that customers will receive a fresh supply of UltraCore Power every month, to ensure the continuous intake of the product. UltraCore Power recommends the daily intake of its supplement stack for at least 8-12 weeks to experience the best results. To make it more attractive for customers to continue taking the product, UltraCore Power has plenty of exclusive discounts and free products for its customers to enjoy.</p>
+			<p>Surely, at the end of the day, it’s all about the results that you get from the formula. We tested UltraCore Power to see if the results are significant enough in the first 8 weeks. Check it out:</p>
+			<h2>Trying out UltraCore Power</h2>
+			<p>A review wouldn’t be complete without the actual testing of the product. That’s why I opted to take UltraCore Power and consistently monitor my progress with a progress diary. Please note that the results detailed in this review were based on my experience, and you may or may not experience the same results I did. Plenty of factors can affect your results, such as your age, weight, lifestyle, and diet. For the record, I’m 5’10, 185lbs. I go to the gym at least once a week, I don’t particularly follow a diet, and the last time I took testosterone supplements was at least 3 years ago. </p>
+			<h2>The first week of taking UltraCore Power</h2>
+			<p>My first week of taking UltraCore Power was quite unconvincing, to be honest. There weren’t any big changes in my strength and stamina, but I notice that there’s a slight improvement in my energy levels. I don’t get tired as easily, and I don’t need coffee as much. I used to drink coffee at least 3 times daily, and with UltraCore Power, I don’t feel the need to wake myself up with coffee anymore. </p>
+			<p>I understand that supplements take time to work, and the fact that I already experienced a part of the results promised by UltraCore Power made it promising for me. In the past, I took supplements that took roughly 4-6 months to work, and at the time I felt that UltraCore Power wasn’t going to be one of those pills. The results were surprising, and it happened ahead of schedule.</p>
+			<h2>Fourth week of taking UltraCore Power</h2>
+			<p>I started noticing changes in my physique on the fourth week of taking UltraCore Power – this was right before I emptied my first bottle. I got my second month supply around this time, so I was sure I’d have enough supplements for another month. I also got a free supplement – a fat burner that I chose through their ClubUltraCore website. Also, I got a 40% discount on my second month – which was surprising! I never entered code or signed up for anything else. Basically, in my second month, I paid less, I got more supplements, and I was starting to notice the changes in my body. </p>
+			<p>My weekly workouts usually lasted for an hour, coursing through the weight room and sometimes I’d play pickup ball with the other guys at the gym. Now, my time at the weight room lasts about 90 mins at a minimum. I do more reps, and I lift a bit more than I used to. The performance was changing, and my rate of progress was definitely better than what I had before. </p>
+			<h2>The second month of taking UltraCore Power</h2>
+			<p>This is where the real magic of UltraCore Power happens. I realized that with its consistent stream of nutrients in my body, I’m more driven to train and work out. The changes in my performance pushed me to visit the gym at least twice a week, and that definitely sped up the progress in my physique. I used to weigh 185, now I’m down to 175, with muscle instead of fat. Body fat was hovering around 11-14%, and it was definitely showing in my physique. I got my 6-pack showing now, which I never had before, and it was a lot of changes in just two months. </p>
+			<p>Did it make me more confident? Absolutely. At work, people started to notice. I aced my stats, worked out a lot more than I used to, and I was closing women at will, as obnoxious as that might sound. I didn’t expect things to happen this fast, but I’m glad it did. I never saw myself as a patient guy, and with results this fast, I couldn’t help but be amazed at how good this product is. </p>
+			<h1 id="ingredients">UltraCore Power Ingredients</h1>
+			<div class="triangle"></div>
+			<div class="ingredients-row">
+				<img class="ingredients" src="img/ingredients-1.png" alt="ingredients">
+				<img class="ingredients" src="img/ingredients-2.png" alt="ingredients">
+				<img class="ingredients" src="img/ingredients-3.png" alt="ingredients">
+				<img class="ingredients" src="img/ingredients-4.png" alt="ingredients">
+				<img class="ingredients" src="img/ingredients-5.png" alt="ingredients">
+				<img class="ingredients" src="img/ingredients-6.png" alt="ingredients">
+			</div>
+			<p>This review won’t be complete without backing my experience with hard facts – and that can be best explained by discussing the ingredients in the formula. </p>
+			<p>UltraCore Power has one of the most prolific ingredient profiles we’ve ever seen in testosterone-boosting supplements. By examining the ingredients, I learned that UltraCore Power doesn’t just improve testosterone and energy, but your mental performance and stamina as well. Here are some of the ingredients you should watch out for when you research about UltraCore Power:</p>
+			<h2>KSM-66</h2>
+			<p>KSM-66 is a supplement product created from the Ashwagandha plant. You can buy KSM-66 as an individual product, but UltraCore Power uses KSM-66 as an integral part of its testosterone-boosting system. Ashwagandha has been used for centuries as the main herb in Ayurvedic medicine, and it’s mainly used to increase vigor and vitality. KSM-66 is a modernized version of Ashwagandha and is clinically proven to reduce cortisol. By inhibiting cortisol, KSM-66 helps improve testosterone production.</p>
+			<h2>LongJack/Tongkat Ali</h2>
+			<p>Longjack, or more commonly known as Tongkat Ali, is the main testosterone-boosting agent of UltraCore Power. Studies show that Longjack is highly effective in improving testosterone production by stimulating the Leydig cells in the testes. It also helps reduce aromatization to improve testosterone preservation and managing estrogen levels in the body. Longjack is perhaps the most prolific ingredient in UltraCore Power as it has plenty of verified studies to prove its effectiveness as a testosterone-boosting agent. </p>
+			<h2>ZMA</h2>
+			<p>Bodybuilders and athletes know ZMA because of its proven performance-enhancing benefits. The combination of Zinc, Magnesium Aspartate, and Vitamin B6 is known to provide testosterone support and energy for quick and explosive movements, which is why athletes and professionals love taking ZMA supplements. UltraCore Power has integrated ZMA into its formula to further enhance the performance and energy derived from the formula.</p>
+			<h2>Fenugreek</h2>
+			<p>Fenugreek is an herb most commonly used by men to prevent prostate enlargement. The herb has proven results in reducing DHT levels to prevent abnormal prostate growth. DHT metabolizes from testosterone, and Fenugreek inhibits the enzyme that converts testosterone into DHT. This action not only inhibits DHT but also builds up testosterone levels. As a result, UltraCore Power further increases total testosterone levels while preventing the side effect caused by its metabolites. </p>
+			<h2>L-Arginine</h2>
+			<p>L-Arginine is a semi-essential amino acid that is commonly sourced from meat products. It acts as a precursor to nitric oxide, which makes blood vessels dilate. Through vasodilation, blood can easily pass through, which improves blood circulation. L-Arginine is known to have antihypertensive benefits through vasodilation, and its role in the UltraCore Power formula is to optimize oxygen and nutrient delivery to the muscles.</p>
+			<h2>Epimedium Sagittatum</h2>
+			<p>Epimedium is also known as Horny Goat Weed, one of the most common ingredients found in sexual enhancement supplements. It has been used for centuries as a cure for impotence. Recent studies show that Epimedium has strong testosterone-boosting properties that make it an effective libido booster. </p>
+			<h2>Tribulus Terrestris</h2>
+			<p>Tribulus terrestris is one of the most prolific anti-aromatase agents that prevent the conversion of testosterone into estrogen. It inhibits the aromatase enzyme, which converts testosterone into estrogen and its other forms. By inhibiting the aromatase enzyme, tribulus terrestris effectively improves total testosterone levels, while preventing the anti-androgenic effect of estrogen in the body. </p>
+			<h2>Shilajit Extract</h2>
+			<p>Shilajit is one of the main ingredients found in the booster supplements of UltraCore Power. Its main role is to support the inhibition of cortisol, initiated by the core ingredients in the main supplement, Male UltraCore. As a standalone ingredient, Shilajit is a prolific testosterone booster, with strong sexual enhancement properties. </p>
+			<h2>Bioperine</h2>
+			<p>Bioperine is also one of the core components of the booster supplements found in UltraCore power. Its main role is to enhance absorption by boosting the bioavailability of the nutrients absorbed from UltraCore Power. </p>
+			<p class="bordered">UltraCore Power has plenty of other notable ingredients, but these are the ones that you should really pay attention to. These are some of the best ingredients you’ll ever find in testosterone-boosting supplements, and UltraCore Power further enhances this selection by selecting the right ingredients that are known to work together. </p>
+			<h1 id="faq">Frequently Asked Questions</h1>
+			<div class="triangle"></div>
+			<p>We get all kinds of questions about the supplements that we review. To help you out, here are the answers to some of the most common questions that we get about UltraCore Power. </p>
+			<h2 class="listed"><span class="prefix">1</span>Is UltraCore Power safe to take daily?</h2>
+			<p>Yes. Absolutely. UltraCore Power is safe to take daily by healthy individuals. If you’re sick or being treated for an illness, make sure that you check first with your doctor before taking UltraCore Power, or any other supplement for that matter. UltraCore Power is formulated to be a balanced supplement, so you won’t have to worry about getting too much of one ingredient. Since UltraCore Power acts on your hormones and circulatory system, it’s best to make sure that you’re healthy, or at least have your doctor check if you can take supplements like UltraCore Power. </p>
+			<h2 class="listed"><span class="prefix">2</span>How long do I need to wait before I experience results?</h2>
+			<p>As it is with other supplements, your progress would depend on a lot of factors, including your age, weight, lifestyle, and diet. The average time it takes before a person experience results from any kind of supplement is between 3-6 months, but with UltraCore Power, it only takes 8-12 weeks. You may experience results sooner or later than the average, but rest assured, as long as you take UltraCore Power daily, you’ll improve your testosterone and energy levels to enhance your performance. </p>
+			<h2 class="listed"><span class="prefix">3</span>How long does it take to get my UltraCore Power order?</h2>
+			<p>After completing your order form online, you can expect your order to arrive between 3-7 business days. Customers who will buy the trio supplement can expect their orders to arrive earlier, at about 3-5 business days since UltraCore Power customers get expedited shipping for free. </p>
+			<h2 class="listed"><span class="prefix">4</span>Can I get UltraCore Power through local stores?</h2>
+			<p>UltraCore Power is exclusively available through the official distribution channels, UltraCorePower.com, and our official eBay and Amazon stores. Only buy from the official distribution channels to get the exclusive UltraCore Power benefits. </p>
+			<h1>Verdict</h1>
+			<div class="triangle"></div>
+			<p>UltraCore Power is indeed the best male performance-enhancing supplement available today. I estimate that it would at least take other companies at least 5 years to catch up with what UltraCore Power has created. Somehow, the guys behind UltraCore Power was able to get the best ingredients, the best formula, the biggest dosage, and all the free products, and still make the product affordable for consumers. When it comes to supplements, quality is not subjective. Either it works or it doesn’t – and for UltraCore Power, we’re definitely certain that the supplement works as advertised. </p>
+			<div class="purchase">
+				<img class="banner" src="img/banner.png" alt="Free Rushed Shipping Today!">
+				<div class="title">
+					<span class="free">Free </span>
+					<span class="rushed">Rushed<br/></span>
+					<span class="shipping">Shipping Today!</span>
+				</div>
+				<a class="order-link" href="https://www.ultracorepower.com/order" target="_blank">
+					<img class="order-btn" src="img/order-btn.png" alt="Order Now">
+				</a>
+			</div>
+		</section>
+
+		<section id="author" class="container author-footer shadow">
+			<h1>Author</h1>
+			<div class="triangle"></div>
+			<div class="name">Chris</div>
+			<div class="description">Chris is a prolific business consultant for companies that specializes in supplements, as well as other fitness-oriented businesses. Apart from his professional career, Chris is also a dad to three children and has been happily married for 25 years.</div>
+		</section>
+
+		<footer class="center">
+			<div class="red-bar">
+				<span class="footer-info">© Copyright 2019</span><span class="footer-info">&nbsp;&nbsp;•&nbsp;&nbsp;All Rights Reserved</span>
+			</div>
+		</footer>
+
+		<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+	</body>
+</html>

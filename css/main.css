@@ -1,0 +1,344 @@
+@font-face {
+	font-family: TitilliumBold;
+	src: url('../fonts/TitilliumBold.ttf');
+}
+
+@font-face {
+	font-family: TitilliumSemibold;
+	src: url('../fonts/TitilliumSemibold.ttf');
+}
+
+@font-face {
+	font-family: TitilliumRegular;
+	src: url('../fonts/TitilliumRegular.ttf');
+}
+
+body {
+	font-size: 18px;
+	font-family: 'Roboto', sans-serif;
+	background-color: #f7f7f7;
+	background-position: top center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	overflow-x: hidden;
+	color: #494949;
+}
+
+p {
+	margin-top: 0px;
+	line-height: 1.5;
+	margin-bottom: 25px;
+	text-align: left;
+	font-weight: 400;
+}
+
+.center {
+	text-align: center;
+}
+
+img {
+	width: 100%;
+}
+
+img.logo {
+	max-width: 466px;
+}
+
+img.header {
+	max-width: 1014px;
+}
+
+img.ingredients {
+	max-width: 151px;
+}
+
+img.banner {
+	max-width: 932px;
+}
+
+img.order-btn {
+	max-width: 329px;
+}
+
+h1 {
+	display: flex;
+    align-items: center;
+	max-width: fit-content;
+    font-size: 40px;
+    padding: 10px 50px;
+    background-color: #3ea6ff;
+    font-family: TitilliumSemibold;
+    min-height: 96px;
+    color: #fff;
+    margin: 30px 0px 0px -45px;
+}
+
+h2 {
+	font-size: 21px;
+	font-weight: 700;
+	font-style: italic;
+	color: #000;
+	margin-bottom: 20px;
+	text-transform: uppercase;
+}
+
+.shadow {
+	box-shadow: 0px 5px 20px 2px rgba(0,0,0,0.3);
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.container {
+	position: relative;
+	padding: 30px;
+}
+
+.triangle {
+	width: 0; 
+	height: 0; 
+	border-left: 10px solid transparent;
+	border-right: 10px solid transparent;  
+	border-bottom: 10px solid #338cd8;
+	transform: rotate(45deg);
+    margin-left: -44px;
+    margin-top: -2px;
+    margin-bottom: 30px;
+}
+
+header {
+	padding-top: 20px;
+}
+
+header .container {
+	padding: 0px;
+}
+
+img.logo {
+	position: absolute;
+	top: 10px;
+}
+
+nav {
+	background-color: #000;
+}
+
+.navbar-expand-lg .navbar-collapse {
+	justify-content: center;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+    font-family: TitilliumBold;
+    font-size: 24px;
+    padding: 10px 15px;
+}
+
+.author-header {
+	font-size: 21px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.ingredients-row {
+    display: flex;
+    margin: 40px 0px;
+    margin-left: -3px;
+    margin-right: -3px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.ingredients-row img{
+	margin: 3px;
+}
+
+p.bordered {
+	background-color: #f1f1f1;
+    padding: 10px 15px;
+    border: 2px dashed #ddd;
+    border-radius: 5px;
+}
+
+h2.listed {
+	display: flex;
+	align-items: flex-start;
+}
+
+h2.listed .prefix {
+	background-color: #eee;
+    color: #585858;
+    margin-right: 15px;
+    font-style: normal;
+    font-weight: 700;
+    padding: 4px 12px;
+    margin-top: -5px;
+    box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.2);
+}
+
+.purchase {
+	position: relative;
+	font-family: TitilliumBold;
+	font-style: italic;
+	color: #000;
+	font-size: 72px;
+	line-height: 1;
+}
+
+.purchase .title {
+	position: absolute;
+    top: 30px;
+    left: 30px;
+}
+
+.purchase .order-link {
+	position: absolute;
+    width: 35%;
+    bottom: 30px;
+    left: 30px;
+}
+
+.purchase .free {
+	color: #5a2780;
+}
+
+.purchase .rushed {
+	font-family: TitilliumRegular;
+}
+
+.author-footer {
+	margin-top: 30px;
+	margin-bottom: 80px;
+}
+
+.author-footer h1 {
+	background-color: #6c6c6c;
+	margin-top: 0px;
+}
+
+.author-footer .triangle {
+	border-bottom: 10px solid #3e3e3e;
+}
+
+.author-footer .name {
+	font-size: 21px;
+	font-family: TitilliumSemibold;
+}
+
+footer {
+	margin: 30px 0px;
+	font-size: 15px;
+}
+
+@media (min-width: 992px) {
+	.container, .container-lg, .container-md, .container-sm {
+	    max-width: 920px;
+	}
+}
+
+@media (min-width: 1200px) {
+	.container {
+		max-width: 1000px;
+	}
+}
+
+@media screen and (max-width: 1199px) {
+	.purchase {
+		font-size: 60px;
+	}
+}
+
+@media screen and (max-width: 991px) {
+	img.logo {
+	    max-width: 400px;
+	}
+	.navbar-dark .navbar-toggler {
+		border-color: #fff;
+	}
+	.navbar {
+		justify-content: flex-end;
+	}
+	h1 {
+		font-size: 28px;
+		min-height: 60px;
+	}
+	.purchase {
+	    font-size: 45px;
+	}
+}
+
+@media screen and (max-width: 767px) {
+	body {
+		font-size: 16px;
+	}
+	.navbar-dark .navbar-nav .nav-link {
+		font-size: 18px;
+	}
+	.author-header {
+    	font-size: 18px;
+    }
+    h1 {
+        font-size: 21px;
+	    min-height: auto;
+	    margin-left: 0px;
+	    text-align: center;
+	    max-width: 100%;
+	    justify-content: center;
+	    margin-bottom: 30px;
+	}
+	h2 {
+    	font-size: 18px;
+    }
+    .purchase {
+    	text-align: center;
+    	font-size: 30px;
+    }
+    .purchase .order-link {
+    	position: static;
+    }
+    .purchase .title {
+    	top: 20%;
+    }
+    .purchase img {
+    	margin-bottom: 20px;
+    }
+
+    .purchase .order-link img {
+    	max-width: 240px;
+    }
+
+    .author-footer .name {
+    	font-size: 18px;
+    }
+    img.logo {
+		width: 50%;
+		margin-left: 10px;
+	}
+	.container {
+		padding: 20px;
+	}
+	.author-footer {
+		margin-bottom: 30px;
+	}
+	.triangle {
+		display: none;
+	}
+}
+
+@media screen and (max-width: 479px) {
+	h1 {
+    	font-size: 18px;
+    }
+    h2 {
+	    font-size: 16px;
+	}
+	.purchase {
+		font-size: 18px;
+	}
+	.purchase .title {
+	    top: 15%;
+	}
+	p {
+		margin-bottom: 20px;
+	}
+}
